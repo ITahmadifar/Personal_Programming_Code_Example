@@ -1,7 +1,7 @@
-Hello! I’m Ahmad Ahmadifar. If you’d like to know more about me, please visit: [https://github.com/ITahmadifar](https://github.com/ITahmadifar "https://github.com/ITahmadifar")
+Hello! Iâ€™m Ahmad Ahmadifar. If youâ€™d like to know more about me, please visit: [https://github.com/ITahmadifar](https://github.com/ITahmadifar "https://github.com/ITahmadifar")
 
 **Now, regarding this repository:**
-As you can see, this repository contains three main folders. Each folder includes files related to the courses I took to learn Python, Data Science, and Machine Learning. I’ll attach the license for participating in these courses at the end of this message.
+As you can see, this repository contains three main folders. Each folder includes files related to the courses I took to learn Python, Data Science, and Machine Learning. Iâ€™ll attach the certificates for participating in these courses at the end of this message.
 
 **About each Folder:**
 
